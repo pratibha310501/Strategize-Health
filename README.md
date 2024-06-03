@@ -1,1 +1,1 @@
-# Strategize-Health
+# Strategize-Health is a Web-Based User-Interface for Healthcare Solutions in which patients can book appointment from home and they can also purchase their prescribed medicines from the website only. Strategize Health can also helps you get best doctors details dynamically so that you can schedule appointments with them.
